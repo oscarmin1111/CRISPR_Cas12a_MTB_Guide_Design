@@ -41,6 +41,11 @@ The final pipeline integrates biological and machine learning criteria to genera
 - RNA secondary structure prediction
 - Experimental validation
 
+## Project Files
+
+* [View the Python Notebook](https://drive.google.com/file/d/1sHh43Cw7rxAu9QPFuoJuJgvyq2Hy_tjM/view?usp=drive_link) - Click here to see the full code and data analysis.
+
+
 ## Author
 
 Oscar
