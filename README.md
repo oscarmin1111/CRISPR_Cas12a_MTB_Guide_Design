@@ -43,7 +43,7 @@ The final pipeline integrates biological and machine learning criteria to genera
 
 ## Project Files
 
-* [View the Python Notebook](https://drive.google.com/file/d/1sHh43Cw7rxAu9QPFuoJuJgvyq2Hy_tjM/view?usp=drive_link) - Click here to see the full code and data analysis.
+* [View the Python Notebook](Cas12a_MTB_Target_Design_v3.ipynb) - Click here to see the full code and data analysis.
 
 
 ## Author
